@@ -1,2 +1,2 @@
 # Amazon
-i was create amazon 
+I created an Amazon page using HTML and CSS. 
